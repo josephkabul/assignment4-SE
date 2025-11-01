@@ -15,7 +15,7 @@ The goal is to understand how each tool performs in terms of test coverage, effi
 
 ---
 
-## Project Layout
+## 🧱 Project Layout
 
 ```text
 assignment4-testing/
@@ -35,6 +35,7 @@ assignment4-testing/
     └── evosuite/
         ├── EvoSuiteTest.java
         └── EvoSuiteRegressionTest.java
+
 
 
 ## Note:  
