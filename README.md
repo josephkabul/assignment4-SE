@@ -15,9 +15,9 @@ The goal is to understand how each tool performs in terms of test coverage, effi
 
 ---
 
-## 🧱 Project Layout
+## Project Layout
 
-```text
+<pre>
 assignment4-testing/
 │
 ├── pom.xml
@@ -35,15 +35,18 @@ assignment4-testing/
     └── evosuite/
         ├── EvoSuiteTest.java
         └── EvoSuiteRegressionTest.java
+</pre>
 
+---
 
-
-## Note:  
+## Note
 Each folder contains automatically generated test cases for the same `Stack.java` class.
 
+---
+
 ## Environment Setup
-- **Java 8+**
-- **Maven**
+- **Java 8+**  
+- **Maven**  
 - **Testing Tools:** EvoSuite, Randoop, ChatGPT  
 - **Coverage Tools:** JaCoCo / IntelliJ Coverage Report
 
